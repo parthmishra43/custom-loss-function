@@ -1,1 +1,1 @@
-# custom-loss-function
+This project builds a neural network model using TensorFlow and Keras to predict California housing prices. It fetches the dataset, splits it into training, validation, and test sets, and scales the features. The model employs a custom Huber loss function, combining squared and absolute error losses, and is compiled with Nadam optimizer and Mean Absolute Error (MAE) as the evaluation metric.
